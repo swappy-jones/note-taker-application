@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomSample</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="back">Back</string>
+    <string name="header">Header</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/search"
+        android:orderInCategory="100"
+        android:title="search"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_alarm"
+        android:icon="@drawable/alarm"
+        android:orderInCategory="101"
+        android:title="alarm"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_cancel_alarm"
+        android:icon="@drawable/cancel_alrm"
+        android:orderInCategory="102"
+        android:title="cancel alarm"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_pin"
+        android:icon="@drawable/pin"
+        android:orderInCategory="103"
+        android:title="pin"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_save"
+        android:icon="@drawable/check"
+        android:orderInCategory="104"
+        android:title="save"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_cancel"
+        android:icon="@drawable/cancel"
+        android:orderInCategory="105"
+        android:title="cancel"
+        app:showAsAction="always"/>
+</menu>
